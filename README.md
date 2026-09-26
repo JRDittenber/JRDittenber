@@ -10,16 +10,19 @@ Data Scientist and adjunct mathematics professor with a B.S. and M.S. in Mathema
 - applied statistics
 - quantitative methods
 - statistical modeling
-- logistic regression and classification
+- correlation analysis
+- logistic regression for explanation or classification
+- ensemble methods
+- decision trees
 - data visualization
-- R Markdown / Quarto
+- R Markdown / Latex
 - Git and GitHub
 - Shiny dashboards
 - machine learning foundations
 - MLOps foundations
 - research design and evaluation
-- educational data analysis
-- production-aware AI/ML workflows (learning AI/agentic) 
+- educational and orgizational data analysis
+- production-aware AI/ML workflows 
 
 
 ## Links
